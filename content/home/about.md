@@ -10,31 +10,43 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Machine Learning",
+    "Crisis Bargaining",
+    "Uncertainty in International Politics"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Postdoctoral Research Fellow"
+  institution = "Harvard University, IQSS"
+  year = 2017
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "PhD in Political Science"
+  institution = "Koç University"
+  year = 2015
+
+[[education.courses]]
+  course = "Predoctoral Research Fellow"
+  institution = "Harvard University, Department of Government"
+  year = 2014
+
+[[education.courses]]
+  course = "MA in International Relations"
+  institution = "University of Essex"
   year = 2008
+
+[[education.courses]]
+  course = "BA in Public Administration"
+  institution = "Istanbul University"
+  year = 2007
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ömer F. Örsün (Phd, 2015, Koç University) is an Assistant Professor at Istanbul University. Before coming to Istanbul University, he held predoctoral (2013-2014) and postdoctoral fellowships (2016-2017) at Harvard University Department of Government and Harvard Institute of Quantitative Social Science. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+He teaches both empirical and conceptual models in international relations at graduate and undergraduate levels.  His research interests include international security, game theory, and machine learning. His previous research has appeared in International Interactions, Democratization, Oxford Research Encyclopedia, All Azimuth and as various book chapters. 
+
