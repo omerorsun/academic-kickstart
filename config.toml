@@ -261,12 +261,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "#contact"  # For a direct email link, use "mailto:test@example.org".
-
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "https://twitter.com/GeorgeCushen"
+    link = "mailto:omerorsun@istanbul.edu.tr"  # For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
     icon = "google-scholar"
@@ -300,7 +295,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications"
+  url = "#publications_selected"
   weight = 2
 
 [[menu.main]]
