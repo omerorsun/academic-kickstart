@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Research Methods"
+title = "Qualitative and Quantitative Research Methods"
 
 # Date this page was created.
 date = 2018-09-27T00:00:00
