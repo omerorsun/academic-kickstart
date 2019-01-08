@@ -24,7 +24,7 @@ external_link = ""
 slides = "example-slides"
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://canvas.instructure.com/courses/1429960"
 url_slides = "https://canvas.instructure.com/courses/1429960"
 url_video = ""
 url_code = ""
