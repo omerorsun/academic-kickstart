@@ -1,6 +1,6 @@
 +++
 title = "Why Some Countries are Immune from the Resource Curse: The Role of Economic Norms"
-date = 2018-01-01T00:00:00
+date = 2016-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Muhammet A. Bas", "Omer F. Orsun", "Rob J. Schub"]`.
