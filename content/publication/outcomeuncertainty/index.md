@@ -79,4 +79,3 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-For more details, please contact: omerorsun@istanbul.edu.tr
