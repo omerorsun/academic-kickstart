@@ -41,7 +41,7 @@ url_code = ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = "Top"
 +++
 
 International politics is a product of the pulls and tugs of domestic affairs. Leaders (not nations) make policy decisions and do so to maximize their prospects of staying in office. Their decisions, therefore, are strategic, taking into account expected responses by adversaries and supporters and designed to maximize the leader’s (not the state’s) welfare.
