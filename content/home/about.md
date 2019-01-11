@@ -11,8 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Machine Learning",
-    "Crisis Bargaining",
-    "Uncertainty in International Politics"
+    "Game Theory",
+    "International Security"
   ]
 
 # List your qualifications (such as academic degrees).
