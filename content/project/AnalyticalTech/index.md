@@ -1,4 +1,5 @@
 +++
+active=false
 # Project title.
 title = "IR 151: Analytical Techniques for Social Sciences"
 
