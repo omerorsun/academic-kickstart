@@ -1,9 +1,9 @@
 +++
 # Accomplishments widget.
 widget = "accomplishments"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 
-title = "Accomplish&shy;ments"
+title = "Software"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -11,7 +11,7 @@ weight = 15
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "Jan 2018"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -20,27 +20,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Neural Networks and Deep Learning"
-  organization = "Coursera"
-  certificate_url = "https://www.coursera.org"
+  title = "mixgauss: model based clustering for mixture of Gaussian distributions (Under review)"
+  organization = "with Muhammet Bas"
+  certificate_url = ""
   date_start = "2018-10-01"
   date_end = ""
-  description = ""
-
-[[item]]
-  title = "Blockchain Fundamentals"
-  organization = "edX"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = ""
-  
-[[item]]
-  title = "Intro to Python"
-  organization = "DataCamp"
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
   description = ""
 
 +++
