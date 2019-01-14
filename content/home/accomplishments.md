@@ -23,7 +23,7 @@ date_format = "Jan 2018"
   title = "mixgauss: model based clustering for mixture of Gaussian distributions (Under review)"
   organization = "with Muhammet Bas"
   certificate_url = ""
-  date_start = "2018-10-01"
+  date_start = "2018-01-01"
   date_end = ""
   description = ""
 
