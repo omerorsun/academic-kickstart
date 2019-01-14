@@ -295,9 +295,15 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
+  name = "Software"
+  url = "#accomplishments"
+  weight = 2
+
+[[menu.main]]
   name = "Research"
   url = "#publications"
   weight = 2
+
 
 [[menu.main]]
   name = "Teaching"
