@@ -19,14 +19,14 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *International Interactions*, II."
-publication_short = "In *II*"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract ="Using the debate over democratization and conflict, we demonstrate how the connection between conceptualization and operationalization can play a decisive role in testing falsifiable hypotheses. We discuss seven different operationalizations of regime change based on three different conceptualizations of democracy. Although we find high correlations between different measures of democracy, when they are used to capture regime change, the correlations drop precipitously. In multivariate estimations of the effect of regime change on a range of conflict variables, we generate widely disparate results, providing no consistent support that democratization affects conflict. We thus demonstrate that decisions about conceptualization and subsequent operationalization have decisive impact on the inference we produce. In contrast, our controls for the effect of institutionalized democracy consistently show a negative relationship between joint democracy and conflict. Finally, autocratic regime change seems to be more robustly correlated with a range of conflict behaviors than heretofore recognized in this literature."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
