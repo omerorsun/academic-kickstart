@@ -18,7 +18,7 @@ authors = ["Muhammet Bas", "Ömer F. Örsün"]
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "Under Review"
 publication_short = ""
 
 # Abstract and optional shortened version.
