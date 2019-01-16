@@ -19,14 +19,14 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Democratization*"
-publication_short = "In *II*"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract ="The political resource curse – the detrimental effect of natural resource dependence on democracy – is a well-established correlate of authoritarianism. A long-standing puzzle, however, is why some countries seem to be immune from it. We address this issue systematically by distinguishing two kinds of economies: contract-intensive, where individuals normally obtain their incomes in the marketplace; and clientelist, where individuals normally obtain their incomes in groups that compete over state rents. We theorize that the institutionalized patronage opportunities in clientelist economies are an important precondition for the resource curse, and that nations with contract-intensive economies are immune from it. Analysis of 150 countries from 1973 to 2000 yields robust support for this view. By introducing clientelist economy as a prerequisite for the resource curse, this study offers an important advance in understanding how nations democratize."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
