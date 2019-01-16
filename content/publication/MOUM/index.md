@@ -26,7 +26,7 @@ abstract = "Can capitalism promote peace among nations? For many this might seem
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
