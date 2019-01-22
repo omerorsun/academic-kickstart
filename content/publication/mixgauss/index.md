@@ -22,7 +22,7 @@ publication = "Under Review"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract ="mixgauss command estimates the model parameters of latent clusters in mixture of gaussian distributions. It uses the expectation maximization algorithm to find the maximum likelihood estimates. The program employs (1) hierarchical clustering (ward clustering) and (2) k-medians clustering to initialize parameters values in the expectation step, and updates the parameters until convergence in the maximization step. For large datasets, mixgauss command uses hierarchical clustering on 1000 randomly selected observations to initialize k-medians for the entire sample and k-medians to initialize the parameter values for the expectation-maximization algorithm."
+abstract ="mixgauss command estimates the model parameters of latent clusters in mixture of gaussian distributions. It uses the expectation maximization algorithm to find the maximum likelihood estimates. The program employs (1) hierarchical clustering (ward clustering) and (2) k-medians clustering to initialize parameter values in the expectation step, and updates the parameters until convergence in the maximization step. For large datasets, mixgauss command uses hierarchical clustering on 1000 randomly selected observations to initialize k-medians for the entire sample and k-medians to initialize the parameter values for the expectation-maximization algorithm."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
