@@ -278,10 +278,6 @@ enableGitInfo = false
     icon_pack = "ai"
     link = "https://dataverse.harvard.edu/dataverse/orsun"
     
-  [[params.social]]
-    icon = "f081"
-    icon_pack = "fas"
-    link = "https://twitter.com/omer_or"
     
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
