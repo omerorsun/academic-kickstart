@@ -279,7 +279,7 @@ enableGitInfo = false
     link = "https://dataverse.harvard.edu/dataverse/orsun"
     
   [[params.social]]
-    icon = "twitter"
+    icon = "f081"
     icon_pack = "fas"
     link = "https://twitter.com/omer_or"
     
