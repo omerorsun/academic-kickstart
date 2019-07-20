@@ -280,7 +280,7 @@ enableGitInfo = false
     
   [[params.social]]
     icon = "twitter"
-    icon_pack = "ai"
+    icon_pack = "fas"
     link = "https://twitter.com/omer_or"
     
   # Link to a PDF of your resume/CV from the About widget.
