@@ -50,7 +50,7 @@ tags = []
 
 # Links (optional).
 url_pdf = "https://doi.org/10.1080/03050629.2017.1414810"
-url_preprint = ""
+url_preprint = "https://www.muhammetbas.com/research"
 url_code = ""
 url_dataset = "https://doi.org/10.7910/DVN/G8CQM3"
 url_project = ""
