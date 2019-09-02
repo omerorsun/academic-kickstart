@@ -53,21 +53,21 @@ enableGitInfo = false
 
   # Your details.
   name = "Ömer Faruk Örsün"
-  role = "Assistant Professor of International Politics"
+  role = "Instructor of Social Science"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Istanbul University", url = "" } ]
+  organizations = [ { name = "New York University Abu Dhabi", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait2.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "omerorsun@istanbul.edu.tr"
-  address = "Istanbul University Faculty of Political Science C-13, Beyazıt, Istanbul 34119 Turkey"
+  email = "omerorsun@nyu.edu"
+  address = "NYUAD, Division of Social Science, A5-1168A, Saadiyat Island, Abu Dhabi, United Arab Emirates, 129188"
   office_hours = """
-  Monday 10:00 to 13:00<br>
-  Wednesday 09:00 to 10:00<br>
+  Monday 9:30 to 11:30<br>
+  Wednesday 13:00 to 15:00<br>
   Otherwise email to book an appointment
   """
   telegram = ""
@@ -120,7 +120,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = "omer_or"
+  twitter = "OmerFOrsun"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
