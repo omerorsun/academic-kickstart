@@ -67,8 +67,8 @@ enableGitInfo = false
   address = """
   New York University Abu Dhabi (NYUAD)<br>
   Omer Faruk Orsun, A5-1168A<br>
-  UAE: PO Box 129188 Abu Dhabi, UAE<br>
-  USA: PO Box 903 New York, NY 10276-0903, USA<br>
+  **UAE:** PO Box 129188 Abu Dhabi, UAE<br>
+  **USA:** PO Box 903 New York, NY 10276-0903, USA<br>
   """
   
   office_hours = """
