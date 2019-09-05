@@ -65,10 +65,10 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "omerorsun@nyu.edu"
   address = """
-  New York University Abu Dhabi (NYUAD)
-  Omer Faruk Orsun, A5-1168A
-  UAE: PO Box 129188 Abu Dhabi, UAE
-  USA: PO Box 903 New York, NY 10276-0903
+  New York University Abu Dhabi (NYUAD)<br>
+  Omer Faruk Orsun, A5-1168A<br>
+  UAE: PO Box 129188 Abu Dhabi, UAE<br>
+  USA: PO Box 903 New York, NY 10276-0903, USA<br>
   """
   
   office_hours = """
