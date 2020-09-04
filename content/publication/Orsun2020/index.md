@@ -50,7 +50,7 @@ tags = []
 
 # Links (optional).
 url_pdf = "https://www.uidergisi.com.tr/uploads/yazilar/5710-omer-faruk-orsun-pdf.pdf"
-url_preprint = 
+url_preprint = ""
 url_code = ""
 url_dataset = "https://doi.org/10.7910/DVN/50A92J"
 url_project = ""
@@ -59,7 +59,7 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
-# Custom links (optional).
+# Custom links (optional)
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
