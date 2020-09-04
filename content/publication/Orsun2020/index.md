@@ -59,7 +59,7 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
-# Custom links (optional).
+# Custom links (optional)
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
