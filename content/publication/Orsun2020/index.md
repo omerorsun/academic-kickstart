@@ -4,7 +4,7 @@ date = 2020-09-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Omer F. Orsun"]`.
-authors = [Omer F. Orsun"]
+authors = ["Omer F. Orsun"]
 
 # Publication type.
 # Legend:
@@ -49,7 +49,7 @@ slides = "ui2020.pdf"
 tags = []
 
 # Links (optional).
-url_pdf = "ui2020.pdf"
+url_pdf = "https://www.uidergisi.com.tr/uploads/yazilar/5710-omer-faruk-orsun-pdf.pdf"
 url_preprint = 
 url_code = ""
 url_dataset = "https://doi.org/10.7910/DVN/50A92J"
