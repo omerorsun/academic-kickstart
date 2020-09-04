@@ -18,7 +18,7 @@ authors = ["Omer F. Orsun"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Uluslararası Iliskiler*, II."
+publication = "In *Uluslararası Iliskiler*."
 publication_short = ""
 
 # Abstract and optional shortened version.
