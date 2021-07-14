@@ -50,7 +50,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://academic.oup.com/isq/advance-article-abstract/doi/10.1093/isq/sqab066/6317980"
 url_code = ""
 url_dataset =""
 url_project = ""
@@ -64,7 +64,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "https://doi.org/10.1093/isq/sqab066"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
